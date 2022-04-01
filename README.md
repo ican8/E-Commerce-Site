@@ -18,7 +18,7 @@ To run the wordpress site locally,
 
 To run the website locally, <br>
 Download the zip from [here](https://drive.google.com/file/d/1Md5NyQ_IvChYXYIGfbAAlOXevRtQwrsL/view?usp=sharing) for reference. 
-This is completely option and the same result can be achieved by installing plugins on wordpress site built using above instructions.
+This is completely optional and the same result can be achieved by installing plugins on wordpress site built using above instructions.
 
 # Pages
 
